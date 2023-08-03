@@ -12,7 +12,20 @@
                             <div class="collapse" id="collapseLayouts" aria-labelledby="headingOne" data-bs-parent="#sidenavAccordion">
                                 <nav class="sb-sidenav-menu-nested nav">
                                     <a class="nav-link" href="layout-static.html">Gedung A</a>
-                                    <a class="nav-link" href="layout-sidenav-light.html">Light Sidenav</a>
+                                    <a class="nav-link" href="layout-sidenav-light.html">Gedung B</a>
+                                    <a class="nav-link" href="layout-sidenav-light.html">Gedung C</a>
+                                    <a class="nav-link" href="layout-sidenav-light.html">Gedung E</a>
+                                    <a class="nav-link" href="layout-sidenav-light.html">Gedung F</a>
+                                    <a class="nav-link" href="layout-sidenav-light.html">Gedung G</a>
+                                    <a class="nav-link" href="layout-sidenav-light.html">Gedung H</a>
+                                    <a class="nav-link" href="layout-sidenav-light.html">Gedung I</a>
+                                    <a class="nav-link" href="layout-sidenav-light.html">Gedung J</a>
+                                    <a class="nav-link" href="layout-sidenav-light.html">Gedung K</a>
+                                    <a class="nav-link" href="layout-sidenav-light.html">Gedung L</a>
+                                    <a class="nav-link" href="layout-sidenav-light.html">Gedung M</a>
+                                    <a class="nav-link" href="layout-sidenav-light.html">Gedung Innocent</a>
+                                    <a class="nav-link" href="layout-sidenav-light.html">Gedung Sportaiment</a>
+                                    <a class="nav-link" href="layout-sidenav-light.html">Gedung Lapang Tembak</a>
                                 </nav>
                             </div>
                             <a class="nav-link collapsed" href="#" data-bs-toggle="collapse" data-bs-target="#collapsePages" aria-expanded="false" aria-controls="collapsePages">
