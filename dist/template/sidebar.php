@@ -25,7 +25,7 @@
                                     <a class="nav-link" href="layout-sidenav-light.html">Gedung M</a>
                                     <a class="nav-link" href="layout-sidenav-light.html">Gedung Innocent</a>
                                     <a class="nav-link" href="layout-sidenav-light.html">Gedung Sportaiment</a>
-                                    <a class="nav-link" href="layout-sidenav-light.html">Gedung Lapang Tembak</a>
+                                    <a class="nav-link" href="layout-sidenav-light.html">Lapang Tembak</a>
                                 </nav>
                             </div>
                             <a class="nav-link collapsed" href="#" data-bs-toggle="collapse" data-bs-target="#collapsePages" aria-expanded="false" aria-controls="collapsePages">

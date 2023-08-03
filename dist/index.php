@@ -8,8 +8,14 @@
     <link href="lgn.css" rel="stylesheet">
 </head>
 <body>
-<div style="width: 100%; height: 100%; position: relative; background: linear-gradient(180deg, #F9F9F9 0%, rgba(255, 57.37, 57.37, 0.79) 44%, rgba(0, 0, 0, 0.73) 96%)">
-    <div style="width: 1366px; height: 768px; left: 0px; top: 0px; position: absolute; background: rgba(0, 0, 0, 0.36)"></div>
+<div class="back">
+<div class="cover">
+<div class="backg-img">
+    
+</div>
+</div>
+
+</div>
     <img style="width: 333px; height: 150px; left: 534px; top: 0px; position: absolute" src="img/logo.png" />
     <div style="width: 444px; height: 374px; left: 479px; top: 209px; position: absolute">
         <div style="width: 444px; height: 374px; left: 0px; top: 0px; position: absolute; background: rgba(0, 0, 0, 0.39); border-radius: 40px; border: 1.50px #A14F4F solid; backdrop-filter: blur(25px)"></div>
