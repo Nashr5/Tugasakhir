@@ -14,17 +14,23 @@
     </head>
     <body class="sb-nav-fixed">
         <!-- header -->
-        <?php 
-        include "../template/header.php";
-        ?>
+        <?php include "../template/header.php"; ?>
 
         <!-- sidebar -->
-        <?php include "../template/sidebar.php"; ?>
+        <div id="layoutSidenav">
+            <div id="layoutSidenav_nav">
+                <nav class="sb-sidenav accordion sb-sidenav-dark" id="sidenavAccordion">
+                    <div class="sb-sidenav-menu">
+                        <div class="nav">
+                            <?php include "../template/sidebar.php"; ?>
+                </nav>
+            </div>
         
+            <!-- begin page -->
             <div id="layoutSidenav_content">
-              <!-- begin page -->
-              <?php include "../template/content.php"; ?>
+               <?php include "../template/content.php"; ?>
 
+               
                 <footer class="py-4 bg-light mt-auto">
                     <div class="container-fluid px-4">
                         <div class="d-flex align-items-center justify-content-between small">
