@@ -11,21 +11,23 @@
                             </a>
                             <div class="collapse" id="collapseLayouts" aria-labelledby="headingOne" data-bs-parent="#sidenavAccordion">
                                 <nav class="sb-sidenav-menu-nested nav">
-                                    <a class="nav-link" href="layout-static.html">Gedung A</a>
-                                    <a class="nav-link" href="layout-sidenav-light.html">Gedung B</a>
-                                    <a class="nav-link" href="layout-sidenav-light.html">Gedung C</a>
-                                    <a class="nav-link" href="layout-sidenav-light.html">Gedung E</a>
-                                    <a class="nav-link" href="layout-sidenav-light.html">Gedung F</a>
-                                    <a class="nav-link" href="layout-sidenav-light.html">Gedung G</a>
-                                    <a class="nav-link" href="layout-sidenav-light.html">Gedung H</a>
-                                    <a class="nav-link" href="layout-sidenav-light.html">Gedung I</a>
-                                    <a class="nav-link" href="layout-sidenav-light.html">Gedung J</a>
-                                    <a class="nav-link" href="layout-sidenav-light.html">Gedung K</a>
-                                    <a class="nav-link" href="layout-sidenav-light.html">Gedung L</a>
-                                    <a class="nav-link" href="layout-sidenav-light.html">Gedung M</a>
-                                    <a class="nav-link" href="layout-sidenav-light.html">Gedung Innocent</a>
-                                    <a class="nav-link" href="layout-sidenav-light.html">Gedung Sportaiment</a>
-                                    <a class="nav-link" href="layout-sidenav-light.html">Lapang Tembak</a>
+                                    
+                                    <a class="nav-link" href="index.php?page=Gedung-A">Gedung A</a>
+                                    <a class="nav-link" href="index.php?page=Gedung-B">Gedung B</a>
+                                    <a class="nav-link" href="index.php?page=Gedung-C">Gedung C</a>
+                                    <a class="nav-link" href="index.php?page=Gedung-D">Gedung D</a>
+                                    <a class="nav-link" href="index.php?page=Gedung-E">Gedung E</a>
+                                    <a class="nav-link" href="index.php?page=Gedung-F">Gedung F</a>
+                                    <a class="nav-link" href="index.php?page=Gedung-G">Gedung G</a>
+                                    <a class="nav-link" href="index.php?page=Gedung-H">Gedung H</a>
+                                    <a class="nav-link" href="index.php?page=Gedung-I">Gedung I</a>
+                                    <a class="nav-link" href="index.php?page=Gedung-J">Gedung J</a>
+                                    <a class="nav-link" href="index.php?page=Gedung-K">Gedung K</a>
+                                    <a class="nav-link" href="index.php?page=Gedung-L">Gedung L</a>
+                                    <a class="nav-link" href="index.php?page=Gedung-M">Gedung M</a>
+                                    <a class="nav-link" href="index.php?page=Gedung-innocent">Gedung innocent</a>
+                                    <a class="nav-link" href="index.php?page=Gedung-sportaiment">Gedung Sportaiment</a>
+                                    <a class="nav-link" href="index.php?page=Lapang-Tembak">Lapang Tembak</a>
                                 </nav>
                             </div>
                             <a class="nav-link collapsed" href="#" data-bs-toggle="collapse" data-bs-target="#collapsePages" aria-expanded="false" aria-controls="collapsePages">
