@@ -15,7 +15,7 @@
                                     <a class="nav-link" href="index.php?page=Gedung-A">Gedung A</a>
                                     <a class="nav-link" href="index.php?page=Gedung-B">Gedung B</a>
                                     <a class="nav-link" href="index.php?page=Gedung-C">Gedung C</a>
-                                    <a class="nav-link" href="index.php?page=Gedung-D">Gedung D</a>
+                                    <!-- <a class="nav-link" href="index.php?page=Gedung-D">Gedung D</a> -->
                                     <a class="nav-link" href="index.php?page=Gedung-E">Gedung E</a>
                                     <a class="nav-link" href="index.php?page=Gedung-F">Gedung F</a>
                                     <a class="nav-link" href="index.php?page=Gedung-G">Gedung G</a>
