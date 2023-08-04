@@ -5,63 +5,95 @@ switch ($_GET['page']) {
         break;
 
     case 'Gedung-A':
-        include "../data/Gedung-A.php";
+        include "../data/Gedung-A/gedung-A.php";
         break;
 
     case 'Gedung-B':
-        include "../data/gedung-B.php";
+        include "../data/Gedung-B/Gedung-B.php";
         break;
 
-    case 'Gedung-C':
-        include "../data/gedung-C.php";
+    case 'Gedung-C-1':
+        include "../data/Gedung-C/c-1.php";
         break;
 
-    case 'Gedung-D':
-        include "../data/gedung-D.php";
+    case 'Gedung-C-2':
+        include "../data/Gedung-C/c-2.php";
         break;
 
-    case 'Gedung-E':
-        include "../data/gedung-E.php";
+    case 'Gedung-C-3':
+        include "../data/Gedung-C/c-3.php";
+        break;
+
+    case 'Gedung-C-4':
+        include "../data/Gedung-C/c-4.php";
+        break;
+
+    case 'Gedung-D-1':
+        include "../data/Gedung-D/d-1.php";
+        break;
+
+    case 'Gedung-D-2':
+        include "../data/Gedung-D/d-2.php";
+        break;
+
+    case 'Gedung-D-3':
+        include "../data/Gedung-D/d-3.php";
+        break;
+
+    case 'Gedung-E-1':
+        include "../data/Gedung-E/e-1.php";
+        break;
+
+    case 'Gedung-E-2':
+        include "../data/Gedung-E/e-2.php";
         break;
 
     case 'Gedung-F':
-        include "../data/gedung-F.php";
+        include "../data/Gedung-F/gedung-F.php";
         break;
 
-    case 'Gedung-G':
-        include "../data/gedung-G.php";
+    case 'Gedung-G-1':
+        include "../data/Gedung-G/g-1.php";
         break;
 
-    case 'Gedung-H':
-        include "../data/gedung-H.php";
+    case 'Gedung-G-2':
+        include "../data/Gedung-G/g-2.php";
         break;
 
-    case 'Gedung-I':
-        include "../data/gedung-I.php";
+    case 'Gedung-H-1':
+        include "../data/Gedung-H/h-1.php";
+        break;
+
+    case 'Gedung-H-2':
+        include "../data/Gedung-H/h-2.php";
+        break;
+
+    case 'Gedung-I-1':
+        include "../data/Gedung-I/i-1.php";
+        break;
+
+    case 'Gedung-I-2':
+        include "../data/Gedung-I/i-2.php";
         break;
 
     case 'Gedung-J':
-        include "../data/gedung-J.php";
+        include "../data/Gedung-J/gedung-J.php";
         break;
 
     case 'Gedung-K':
-        include "../data/gedung-K.php";
+        include "../data/Gedung-K/gedung-K.php";
         break;
 
     case 'Gedung-L':
-        include "../data/gedung-L.php";
+        include "../data/Gedung-L/gedung-L.php";
         break;
 
-    case 'Gedung-M':
-        include "../data/gedung-M.php";
+    case 'Gedung-M-1':
+        include "../data/Gedung-M/M-1.php";
         break;
 
-    case 'Gedung-innocent':
-        include "../data/gedung-innocent.php";
-        break;
-
-    case 'Gedung-sportaiment':
-        include "../data/gedung-Sportaiment.php";
+    case 'Gedung-M-2':
+        include "../data/Gedung-M/M-2.php";
         break;
 
     case 'Lapang-Tembak':

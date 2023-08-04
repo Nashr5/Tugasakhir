@@ -46,10 +46,10 @@
         </a>
         <div class="collapse" id="GedungC" aria-labelledby="headingOne" data-bs-parent="#sidenavAccordionPages">
             <nav class="sb-sidenav-menu-nested nav">
-                <a class="nav-link" href="#">Lantai 1</a>
-                <a class="nav-link" href="#">Lantai 2</a>
-                <a class="nav-link" href="#">Lantai 3</a>
-                <a class="nav-link" href="#">Lantai 4</a>
+                <a class="nav-link" href="index.php?page=Gedung-C-1">Lantai 1</a>
+                <a class="nav-link" href="index.php?page=Gedung-C-2">Lantai 2</a>
+                <a class="nav-link" href="index.php?page=Gedung-C-3">Lantai 3</a>
+                <a class="nav-link" href="index.php?page=Gedung-C-4">Lantai 4</a>
             </nav>
         </div>
 
@@ -59,9 +59,9 @@
         </a>
         <div class="collapse" id="GedungD" aria-labelledby="headingOne" data-bs-parent="#sidenavAccordionPages">
             <nav class="sb-sidenav-menu-nested nav">
-                <a class="nav-link" href="#">Lantai 1</a>
-                <a class="nav-link" href="#">Lantai 2</a>
-                <a class="nav-link" href="#">Lantai 3</a>
+                <a class="nav-link" href="index.php?page=Gedung-D-1">Lantai 1</a>
+                <a class="nav-link" href="index.php?page=Gedung-D-2">Lantai 2</a>
+                <a class="nav-link" href="index.php?page=Gedung-D-3">Lantai 3</a>
             </nav>
         </div>
 
@@ -72,12 +72,12 @@
         </a>
         <div class="collapse" id="GedungE" aria-labelledby="headingOne" data-bs-parent="#sidenavAccordionPages">
             <nav class="sb-sidenav-menu-nested nav">
-                <a class="nav-link" href="#">Lantai 1</a>
-                <a class="nav-link" href="#">Lantai 2</a>
+                <a class="nav-link" href="index.php?page=Gedung-E-1">Lantai 1</a>
+                <a class="nav-link" href="index.php?page=Gedung-E-2">Lantai 2</a>
             </nav>
         </div>
 
-        <a class="nav-link" href="#">Gedung F</a>
+        <a class="nav-link" href="index.php?page=Gedung-F">Gedung F</a>
 
 
         <a class="nav-link collapsed" href="#" data-bs-toggle="collapse" data-bs-target="#GedungG" aria-expanded="false" aria-controls="pagesCollapseError">
@@ -86,8 +86,8 @@
         </a>
         <div class="collapse" id="GedungG" aria-labelledby="headingOne" data-bs-parent="#sidenavAccordionPages">
             <nav class="sb-sidenav-menu-nested nav">
-                <a class="nav-link" href="#">Lantai 1</a>
-                <a class="nav-link" href="#">Lantai 2</a>
+                <a class="nav-link" href="index.php?page=Gedung-G-1">Lantai 1</a>
+                <a class="nav-link" href="index.php?page=Gedung-G-2">Lantai 2</a>
             </nav>
         </div>
 
@@ -98,8 +98,8 @@
         </a>
         <div class="collapse" id="GedungH" aria-labelledby="headingOne" data-bs-parent="#sidenavAccordionPages">
             <nav class="sb-sidenav-menu-nested nav">
-                <a class="nav-link" href="#">Lantai 1</a>
-                <a class="nav-link" href="#">Lantai 2</a>
+                <a class="nav-link" href="index.php?page=Gedung-H-1">Lantai 1</a>
+                <a class="nav-link" href="index.php?page=Gedung-H-2">Lantai 2</a>
             </nav>
         </div>
 
@@ -110,15 +110,15 @@
         </a>
         <div class="collapse" id="GedungI" aria-labelledby="headingOne" data-bs-parent="#sidenavAccordionPages">
             <nav class="sb-sidenav-menu-nested nav">
-                <a class="nav-link" href="#">Lantai 1</a>
-                <a class="nav-link" href="#">Lantai 2</a>
+                <a class="nav-link" href="index.php?page=Gedung-I-1">Lantai 1</a>
+                <a class="nav-link" href="index.php?page=Gedung-I-2">Lantai 2</a>
             </nav>
         </div>
 
 
-        <a class="nav-link" href="#">Gedung J</a>
-        <a class="nav-link" href="#">Gedung K</a>
-        <a class="nav-link" href="#">Gedung L</a>
+        <a class="nav-link" href="index.php?page=Gedung-J">Gedung J</a>
+        <a class="nav-link" href="index.php?page=Gedung-K">Gedung K</a>
+        <a class="nav-link" href="index.php?page=Gedung-L">Gedung L</a>
 
         <a class="nav-link collapsed" href="#" data-bs-toggle="collapse" data-bs-target="#GedungM" aria-expanded="false" aria-controls="pagesCollapseError">
             Gedung M
@@ -126,8 +126,8 @@
         </a>
         <div class="collapse" id="GedungM" aria-labelledby="headingOne" data-bs-parent="#sidenavAccordionPages">
             <nav class="sb-sidenav-menu-nested nav">
-                <a class="nav-link" href="#">Lantai 1</a>
-                <a class="nav-link" href="#">Lantai 2</a>
+                <a class="nav-link" href="index.php?page=Gedung-M-1">Lantai 1</a>
+                <a class="nav-link" href="index.php?page=Gedung-M-2">Lantai 2</a>
             </nav>
         </div>
 </div>
