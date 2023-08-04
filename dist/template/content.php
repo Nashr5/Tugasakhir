@@ -25,36 +25,36 @@ switch ($_GET['page']) {
         break;
 
     case 'Gedung-F':
-         include "../data/gedung-F.php";
+        include "../data/gedung-F.php";
         break;
 
     case 'Gedung-G':
-         include "../data/gedung-G.php";
+        include "../data/gedung-G.php";
         break;
 
     case 'Gedung-H':
-         include "../data/gedung-H.php";
+        include "../data/gedung-H.php";
         break;
-        
+
     case 'Gedung-I':
-         include "../data/gedung-I.php";
-        break;    
+        include "../data/gedung-I.php";
+        break;
 
     case 'Gedung-J':
-         include "../data/gedung-J.php";
+        include "../data/gedung-J.php";
         break;
-        
+
     case 'Gedung-K':
-         include "../data/gedung-K.php";
+        include "../data/gedung-K.php";
         break;
 
     case 'Gedung-L':
-         include "../data/gedung-L.php";
-        break;  
-        
+        include "../data/gedung-L.php";
+        break;
+
     case 'Gedung-M':
-         include "../data/gedung-M.php";
-        break;    
+        include "../data/gedung-M.php";
+        break;
 
     case 'Gedung-innocent':
         include "../data/gedung-innocent.php";

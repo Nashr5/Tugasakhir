@@ -1,21 +1,19 @@
 <div class="sb-sidenav-menu-heading">Core</div>
-                            <a class="nav-link" href="index.html">
-                                <div class="sb-nav-link-icon"><i class="fas fa-tachometer-alt"></i></div>
-                                Dashboard
-                            </a>
-                            <div class="sb-sidenav-menu-heading">Interface</div>
-                            <a class="nav-link collapsed" href="#" data-bs-toggle="collapse" data-bs-target="#collapseLayouts" aria-expanded="false" aria-controls="collapseLayouts">
+<a class="nav-link" href="index.html">
+    <div class="sb-nav-link-icon"><i class="fas fa-tachometer-alt"></i></div>
+    Dashboard
+</a>
+<div class="sb-sidenav-menu-heading">Gedung</div>
+<!-- <a class="nav-link collapsed" href="#" data-bs-toggle="collapse" data-bs-target="#collapseLayouts" aria-expanded="false" aria-controls="collapseLayouts">
                                 <div class="sb-nav-link-icon"><i class="fas fa-columns"></i></div>
                                 Gedung
                                 <div class="sb-sidenav-collapse-arrow"><i class="fas fa-angle-down"></i></div>
                             </a>
                             <div class="collapse" id="collapseLayouts" aria-labelledby="headingOne" data-bs-parent="#sidenavAccordion">
-                                <nav class="sb-sidenav-menu-nested nav">
-                                    
-                                    <a class="nav-link" href="index.php?page=Gedung-A">Gedung A</a>
-                                    <a class="nav-link" href="index.php?page=Gedung-B">Gedung B</a>
+                                <nav class="sb-sidenav-menu-nested nav"> 
+                                <a class="nav-link" href="index.php?page=Gedung-B">Gedung B</a>
                                     <a class="nav-link" href="index.php?page=Gedung-C">Gedung C</a>
-                                    <!-- <a class="nav-link" href="index.php?page=Gedung-D">Gedung D</a> -->
+                                    <a class="nav-link" href="index.php?page=Gedung-D">Gedung D</a>
                                     <a class="nav-link" href="index.php?page=Gedung-E">Gedung E</a>
                                     <a class="nav-link" href="index.php?page=Gedung-F">Gedung F</a>
                                     <a class="nav-link" href="index.php?page=Gedung-G">Gedung G</a>
@@ -29,50 +27,122 @@
                                     <a class="nav-link" href="index.php?page=Gedung-sportaiment">Gedung Sportaiment</a>
                                     <a class="nav-link" href="index.php?page=Lapang-Tembak">Lapang Tembak</a>
                                 </nav>
-                            </div>
-                            <a class="nav-link collapsed" href="#" data-bs-toggle="collapse" data-bs-target="#collapsePages" aria-expanded="false" aria-controls="collapsePages">
-                                <div class="sb-nav-link-icon"><i class="fas fa-book-open"></i></div>
-                                Pages
-                                <div class="sb-sidenav-collapse-arrow"><i class="fas fa-angle-down"></i></div>
-                            </a>
-                            <div class="collapse" id="collapsePages" aria-labelledby="headingTwo" data-bs-parent="#sidenavAccordion">
-                                <nav class="sb-sidenav-menu-nested nav accordion" id="sidenavAccordionPages">
-                                    <a class="nav-link collapsed" href="#" data-bs-toggle="collapse" data-bs-target="#pagesCollapseAuth" aria-expanded="false" aria-controls="pagesCollapseAuth">
-                                        Authentication
-                                        <div class="sb-sidenav-collapse-arrow"><i class="fas fa-angle-down"></i></div>
-                                    </a>
-                                    <div class="collapse" id="pagesCollapseAuth" aria-labelledby="headingOne" data-bs-parent="#sidenavAccordionPages">
-                                        <nav class="sb-sidenav-menu-nested nav">
-                                            <a class="nav-link" href="login.html">Login</a>
-                                            <a class="nav-link" href="register.html">Register</a>
-                                            <a class="nav-link" href="password.html">Forgot Password</a>
-                                        </nav>
-                                    </div>
-                                    <a class="nav-link collapsed" href="#" data-bs-toggle="collapse" data-bs-target="#pagesCollapseError" aria-expanded="false" aria-controls="pagesCollapseError">
-                                        Error
-                                        <div class="sb-sidenav-collapse-arrow"><i class="fas fa-angle-down"></i></div>
-                                    </a>
-                                    <div class="collapse" id="pagesCollapseError" aria-labelledby="headingOne" data-bs-parent="#sidenavAccordionPages">
-                                        <nav class="sb-sidenav-menu-nested nav">
-                                            <a class="nav-link" href="401.html">401 Page</a>
-                                            <a class="nav-link" href="404.html">404 Page</a>
-                                            <a class="nav-link" href="500.html">500 Page</a>
-                                        </nav>
-                                    </div>
-                                </nav>
-                            </div>
-                            <div class="sb-sidenav-menu-heading">Addons</div>
-                            <a class="nav-link" href="charts.html">
-                                <div class="sb-nav-link-icon"><i class="fas fa-chart-area"></i></div>
-                                Charts
-                            </a>
-                            <a class="nav-link" href="index.php?page=management-data">
-                                <div class="sb-nav-link-icon"><i class="fas fa-table"></i></div>
-                                Tables
-                            </a>
-                        </div>
-                    </div>
-                    <div class="sb-sidenav-footer">
-                        <div class="small">Logged in as:</div>
-                        Start Bootstrap
-                    </div>
+                            </div> -->
+
+<a class="nav-link collapsed" href="#" data-bs-toggle="collapse" data-bs-target="#collapsePages" aria-expanded="false" aria-controls="collapsePages">
+    <div class="sb-nav-link-icon"><i class="fas fa-book-open"></i></div>
+    Gedung
+    <div class="sb-sidenav-collapse-arrow"><i class="fas fa-angle-down"></i></div>
+</a>
+<div class="collapse" id="collapsePages" aria-labelledby="headingOne" data-bs-parent="#sidenavAccordion">
+<nav class="sb-sidenav-menu-nested nav">
+    <a class="nav-link" href="index.php?page=Gedung-A">Gedung A</a>
+    <a class="nav-link" href="index.php?page=Gedung-B">Gedung B</a>
+</nav>
+    <nav class="sb-sidenav-menu-nested nav accordion" id="sidenavAccordionPages">
+        <a class="nav-link collapsed" href="#" data-bs-toggle="collapse" data-bs-target="#GedungC" aria-expanded="false" aria-controls="pagesCollapseAuth">
+            Gedung C
+            <div class="sb-sidenav-collapse-arrow"><i class="fas fa-angle-down"></i></div>
+        </a>
+        <div class="collapse" id="GedungC" aria-labelledby="headingOne" data-bs-parent="#sidenavAccordionPages">
+            <nav class="sb-sidenav-menu-nested nav">
+                <a class="nav-link" href="#">Lantai 1</a>
+                <a class="nav-link" href="#">Lantai 2</a>
+                <a class="nav-link" href="#">Lantai 3</a>
+                <a class="nav-link" href="#">Lantai 4</a>
+            </nav>
+        </div>
+
+        <a class="nav-link collapsed" href="#" data-bs-toggle="collapse" data-bs-target="#GedungD" aria-expanded="false" aria-controls="pagesCollapseError">
+            Gedung D
+            <div class="sb-sidenav-collapse-arrow"><i class="fas fa-angle-down"></i></div>
+        </a>
+        <div class="collapse" id="GedungD" aria-labelledby="headingOne" data-bs-parent="#sidenavAccordionPages">
+            <nav class="sb-sidenav-menu-nested nav">
+                <a class="nav-link" href="#">Lantai 1</a>
+                <a class="nav-link" href="#">Lantai 2</a>
+                <a class="nav-link" href="#">Lantai 3</a>
+            </nav>
+        </div>
+
+
+        <a class="nav-link collapsed" href="#" data-bs-toggle="collapse" data-bs-target="#GedungE" aria-expanded="false" aria-controls="pagesCollapseError">
+            Gedung E
+            <div class="sb-sidenav-collapse-arrow"><i class="fas fa-angle-down"></i></div>
+        </a>
+        <div class="collapse" id="GedungE" aria-labelledby="headingOne" data-bs-parent="#sidenavAccordionPages">
+            <nav class="sb-sidenav-menu-nested nav">
+                <a class="nav-link" href="#">Lantai 1</a>
+                <a class="nav-link" href="#">Lantai 2</a>
+            </nav>
+        </div>
+
+        <a class="nav-link" href="#">Gedung F</a>
+
+
+        <a class="nav-link collapsed" href="#" data-bs-toggle="collapse" data-bs-target="#GedungG" aria-expanded="false" aria-controls="pagesCollapseError">
+            Gedung G
+            <div class="sb-sidenav-collapse-arrow"><i class="fas fa-angle-down"></i></div>
+        </a>
+        <div class="collapse" id="GedungG" aria-labelledby="headingOne" data-bs-parent="#sidenavAccordionPages">
+            <nav class="sb-sidenav-menu-nested nav">
+                <a class="nav-link" href="#">Lantai 1</a>
+                <a class="nav-link" href="#">Lantai 2</a>
+            </nav>
+        </div>
+
+
+        <a class="nav-link collapsed" href="#" data-bs-toggle="collapse" data-bs-target="#GedungH" aria-expanded="false" aria-controls="pagesCollapseError">
+            Gedung H
+            <div class="sb-sidenav-collapse-arrow"><i class="fas fa-angle-down"></i></div>
+        </a>
+        <div class="collapse" id="GedungH" aria-labelledby="headingOne" data-bs-parent="#sidenavAccordionPages">
+            <nav class="sb-sidenav-menu-nested nav">
+                <a class="nav-link" href="#">Lantai 1</a>
+                <a class="nav-link" href="#">Lantai 2</a>
+            </nav>
+        </div>
+
+
+        <a class="nav-link collapsed" href="#" data-bs-toggle="collapse" data-bs-target="#GedungI" aria-expanded="false" aria-controls="pagesCollapseError">
+            Gedung I
+            <div class="sb-sidenav-collapse-arrow"><i class="fas fa-angle-down"></i></div>
+        </a>
+        <div class="collapse" id="GedungI" aria-labelledby="headingOne" data-bs-parent="#sidenavAccordionPages">
+            <nav class="sb-sidenav-menu-nested nav">
+                <a class="nav-link" href="#">Lantai 1</a>
+                <a class="nav-link" href="#">Lantai 2</a>
+            </nav>
+        </div>
+
+
+        <a class="nav-link" href="#">Gedung J</a>
+        <a class="nav-link" href="#">Gedung K</a>
+        <a class="nav-link" href="#">Gedung L</a>
+
+        <a class="nav-link collapsed" href="#" data-bs-toggle="collapse" data-bs-target="#GedungM" aria-expanded="false" aria-controls="pagesCollapseError">
+            Gedung M
+            <div class="sb-sidenav-collapse-arrow"><i class="fas fa-angle-down"></i></div>
+        </a>
+        <div class="collapse" id="GedungM" aria-labelledby="headingOne" data-bs-parent="#sidenavAccordionPages">
+            <nav class="sb-sidenav-menu-nested nav">
+                <a class="nav-link" href="#">Lantai 1</a>
+                <a class="nav-link" href="#">Lantai 2</a>
+            </nav>
+        </div>
+</div>
+
+<div class="sb-sidenav-menu-heading">Addons</div>
+<a class="nav-link" href="charts.html">
+    <div class="sb-nav-link-icon"><i class="fas fa-chart-area"></i></div>
+    Charts
+</a>
+<a class="nav-link" href="index.php?page=management-data">
+    <div class="sb-nav-link-icon"><i class="fas fa-table"></i></div>
+    Tables
+</a>
+
+<div class="sb-sidenav-footer">
+    <div class="small">Logged in as:</div>
+    Start Bootstrap
+</div>
